@@ -1,5 +1,5 @@
-Logs.tf Additional Stats
-========================
+Logs.tf Spec 2.0 (for Additional Stats)
+=======================================
 
 Damage with target, including headshot and airshot
 --------
